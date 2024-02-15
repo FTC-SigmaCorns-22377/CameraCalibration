@@ -1,0 +1,17 @@
+#Build System
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+#Project
+name = "Camera_Calibration_Sigma_Corns"
+version = "0.0.1"
+authors = [{name = "FTC Team 22377", email = "email"}]
+description = "Camera calibration for the purposes of FTC"
+readme = "README.md"
+requires_python = "3.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+Homepage = "https://github.com/FTC-SigmaCorns-22377/CameraCalibration.git"
