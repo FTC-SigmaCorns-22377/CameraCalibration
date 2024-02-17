@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 #Project
 name = "Camera_Calibration_Sigma_Corns"
 version = "0.0.1"
-authors = [{name = "FTC Team 22377", email = "email"}]
+authors = [{name = "FTC Team 22377", email = "team@sigmacorns.org"}]
 description = "Camera calibration for the purposes of FTC"
 readme = "README.md"
 requires_python = "3.12"
